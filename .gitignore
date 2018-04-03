@@ -3,7 +3,6 @@ hooks
 node_modules
 lib
 debugger
-dist
 report
 
 app/**/*.map
